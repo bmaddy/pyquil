@@ -97,7 +97,7 @@ MEASURE 1 [1]
 
 ## Community
 
-Join the public Forest Slack channel at [http://slack.rigetti.com](http://slack.rigetti.com).
+Join the public Forest Slack channel at [https://tinyurl.com/y9es2gdp](https://tinyurl.com/y9es2gdp).
 
 The following projects have been contributed by community members:
 
